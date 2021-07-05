@@ -1,7 +1,4 @@
-# Assignment 4
-
-**Assignment due at 11:59pm on Monday, 3/1/2021**<br>
-**Grading demo due by 5:00pm on Friday 3/19/2021**
+# Assignment 4 Requirements
 
 The goal of this assignment is to use Redux to maintain the global state of an application.  You will specifically implement a basic shopping cart application for the "Penny Candy Store", an online store that sells penny candy.
 
@@ -61,15 +58,3 @@ The shopping cart should also have the following features:
 
 Think carefully about how to design the Redux elements related to the shopping cart.  For example, you'll likely need several actions, e.g. one to add an item to the cart, one to remove an item from the cart and place it back in inventory, one to checkout, etc.
 
-## Assignment submission
-
-We'll be using GitHub Classroom for this assignment, and you will submit your assignment via GitHub.  Just make sure your completed files are committed and pushed by the assignment's deadline to the master branch of the GitHub repo that was created for you by GitHub Classroom.  A good way to check whether your files are safely submitted is to look at the master branch your assignment repo on the github.com website (i.e. https://github.com/osu-cs499-w21/assignment-4-YourGitHubUsername/). If your changes show up there, you can consider your files submitted.
-
-## Assignment grading
-
-This assignment is worth 10 points total.  You can also earn 1 point of extra credit as described above.
-
-Remember that in this course, programming assignments will be graded based on effort instead of correctness, and you will get full credit for an assignment if it is submitted on time and is clearly the product of a determined effort to solve the problem.  Again, If you’re unable to solve the homework problem, make sure to submit all code you’ve written, and then describe in comments in the source code the following three things:
-  1. How you attempted to solve the problem.
-  2. Where you ran into trouble.
-  3. What options you think (conceptually) might lead to a working solution.
